@@ -11,15 +11,16 @@
 
 <br>
 
-### 🌐 Currently Working On
-
-- [ ] Personal portfolio revamp
-
-<br>
-
 ### 🛠  Tech Stack
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,redux,vite,tailwind,figma,git,vscode&perline=12" alt="tech stack"> <br> 
 
+
+<br>
+
+
+### 🌐 Currently Working On
+
+- [ ] Personal portfolio revamp
 
 <br>
 
