@@ -37,6 +37,6 @@
 
 ### Github Statistic
 <p align="left">
-  <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=jellpudding&&layout=compact&hide_title=1&card_width=300"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jellpudding&layout=compact&hide_title=1&card_width=300"/>
+  <img height="150em" src ="https://github-readme-stats.vercel.app/api?username=jellpudding&&layout=compact&hide_title=1&card_width=300"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jellpudding&layout=compact&hide_title=1&card_width=300"/>
 </p>
