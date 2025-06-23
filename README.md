@@ -23,12 +23,6 @@
 
 <br>
 
-  ### 📬 Let's Connect
-
-- [X (Twitter)](https://x.com/_jellypudding)
-- [Portfolio](https://jellypudding.netlify.app)
-  
-<br>
 
 ### 🎧 My Mood Playlist
 - 💿 [fromisvt AZ - Spotify](https://open.spotify.com/playlist/4w9hmbemZTBt2hM6HJ0gIe?si=a69eec9e6f0146a8)
