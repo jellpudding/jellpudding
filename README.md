@@ -3,11 +3,10 @@
 ### 💡 About Me
 
 - 🧑‍💻 I'm currently a freelance frontend developer and full time Carat 💎  
-- 📚 Self-taught developer inspired by self-producing artist
-- 💖 Going Seventeen saves me from debugging
 - 🔨 Building fan-driven websites, and sometimes exchanging stories about code and SEVENTEEN with other Carats.
 - 📩 Open collaboration! Feel free to DM me on [X (Twitter)](https://x.com/_jellypudding) if you're interested
-- ⚡ Stream [SEVENTEEN - Thunder]([https://youtube.com](https://www.youtube.com/watch?v=pS57UX6s-xw)) on YouTube!
+- 💖 Going Seventeen saves me from debugging
+- ⚡ Stream [SEVENTEEN - Thunder](https://www.youtube.com/watch?v=pS57UX6s-xw) on YouTube!
 
 <br>
 
@@ -38,8 +37,6 @@
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/jellpudding">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jellpudding&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jellpudding&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=jellpudding&&layout=compact&hide_title=1&card_width=300"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jellpudding&layout=compact&hide_title=1&card_width=300"/>
 </p>
